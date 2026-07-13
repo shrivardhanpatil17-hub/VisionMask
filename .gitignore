@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Data
+*.csv
+*.npz
+*.pth
+*.pt
